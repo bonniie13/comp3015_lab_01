@@ -42,7 +42,6 @@ function displayShowInfo(array $shows): void
     {
         echo "<li><strong>$name</strong>: $dates</li>";
     }
-
 }
 
 // An associative array of show names and associated dates when the shows aired
